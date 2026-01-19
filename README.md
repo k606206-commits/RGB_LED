@@ -281,28 +281,9 @@ void RGB_Demo_Rainbow(void)
 	         printf("\r\n--- Cycle Complete ---\r\n\n");
     /* USER CODE END WHILE */
 ```
-## 📊 시리얼 출력 예시
+## 📊 시리얼 출력
+<img width="643" height="679" alt="스크린샷 2026-01-19 110315" src="https://github.com/user-attachments/assets/6b31ac13-f60a-49fb-8c62-3eda755c1380" />
 
-```
-========================================
-  RGB LED Module Test - NUCLEO-F103RB
-========================================
-
-[Test 1] Basic Colors
-  Red...
-  Green...
-  Blue...
-  Yellow (R+G)...
-  Cyan (G+B)...
-  Magenta (R+B)...
-  White (R+G+B)...
-  OFF...
-
-[Test 2] Fade Effect
-[Test 3] Rainbow Effect
-
---- Cycle Complete ---
-```
 
 ## 🔍 트러블슈팅
 
