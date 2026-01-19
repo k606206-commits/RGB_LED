@@ -1,4 +1,4 @@
-# RGB LED Module Test - NUCLEO-F103RB
+<img width="526" height="624" alt="image" src="https://github.com/user-attachments/assets/d67002d5-1397-4645-ac5d-406b1cd4006b" /># RGB LED Module Test - NUCLEO-F103RB
 
 RGB LED 모듈을 STM32F103 NUCLEO 보드에서 PWM을 이용하여 제어하는 프로젝트입니다.
 
@@ -281,28 +281,11 @@ void RGB_Demo_Rainbow(void)
 	         printf("\r\n--- Cycle Complete ---\r\n\n");
     /* USER CODE END WHILE */
 ```
-## 📊 시리얼 출력 예시
+## 📊 시리얼 출력 
 
-```
-========================================
-  RGB LED Module Test - NUCLEO-F103RB
-========================================
+<img width="643" height="679" alt="image" src="https://github.com/user-attachments/assets/74c3d261-31e3-42d3-9338-813ebdbb2aae" />
 
-[Test 1] Basic Colors
-  Red...
-  Green...
-  Blue...
-  Yellow (R+G)...
-  Cyan (G+B)...
-  Magenta (R+B)...
-  White (R+G+B)...
-  OFF...
 
-[Test 2] Fade Effect
-[Test 3] Rainbow Effect
-
---- Cycle Complete ---
-```
 
 ## 🔍 트러블슈팅
 
