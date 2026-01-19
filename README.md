@@ -569,6 +569,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 <img width="643" height="679" alt="스크린샷 2026-01-19 110315" src="https://github.com/user-attachments/assets/1972b141-3480-442a-a60a-0c4998e496c6" />
 
+## 실물 이미지
+
+RED : &nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/34fb42c8-2687-4aef-81e1-c735a35f5c3d" width="200" height="200"><br>
+
+GREEN :<img src="https://github.com/user-attachments/assets/2fe85dde-9055-4e01-a4ba-05942dadd64e" width="200" height="200"><br>
+
+BLUE : &nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/7d30f09b-f426-4be3-a0f2-9221f8a954f1" width="200" height="200">
+
 
 ## 🔍 트러블슈팅
 
