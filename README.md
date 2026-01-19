@@ -1,4 +1,4 @@
-<img width="526" height="624" alt="image" src="https://github.com/user-attachments/assets/d67002d5-1397-4645-ac5d-406b1cd4006b" /># RGB LED Module Test - NUCLEO-F103RB
+
 
 RGB LED 모듈을 STM32F103 NUCLEO 보드에서 PWM을 이용하여 제어하는 프로젝트입니다.
 
